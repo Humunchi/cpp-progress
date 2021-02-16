@@ -3,7 +3,7 @@ this is me praticing my c++ that I am self studying online.
 You've probably seen most if not all of this code before on some tuttorial on line. Mainly I am using Free Code Camp and CodeCademy. 
 Thus far I have:
 ## 1. Using cout to print hello world
-## 2. ry Basic Object Oriented Programing 
+## 2. Try Basic Object Oriented Programing 
 ## 3. App Ideas:
  * a.) Tax app guiding self-employed people on how to file taxes in South Africa.
  * b.) Setswana learning application with word games (similar to Duo)
