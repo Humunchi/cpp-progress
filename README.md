@@ -1,4 +1,4 @@
-# cpp-progress :smile:
+# cpp-progress :smile:<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 this is me praticing my c++ that I am self studying online.
 You've probably seen most if not all of this code before on some tuttorial on line. Mainly I am using Free Code Camp and CodeCademy. 
 Thus far I have:
