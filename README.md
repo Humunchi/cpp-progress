@@ -1,4 +1,4 @@
-# cpp-progress
+# cpp-progress :smile:
 this is me praticing my c++ that I am self studying online.
 You've probably seen most if not all of this code before on some tuttorial on line. Mainly I am using Free Code Camp and CodeCademy. 
 Thus far I have:
