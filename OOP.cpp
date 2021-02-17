@@ -12,12 +12,17 @@ public:
         std::cout << "Company -" << Company << std::end1;
         std::cout << "Age -" << Age << std::end1;
     }
+    Employee (string name, string company, int age) {
+        Name = name;
+        Company = company;
+        Age = age;
+    }
 };
 int main ()
 {
-    Employee employee1;
-    employee1.Name = "Rehumile";
-    employee1.Company = "YT-Humunchi";
-    employee1.Age = 24;
+    Employee employee1 = Employee("Rehumile", "YT-Humunchi", 24);
     employee1.IntroduceYourself();
+    
+     Employee employee2 = Employee("Jomathan", "YT-Jounchi", 23);
+     employee2.IntroduceYourself();
 }
