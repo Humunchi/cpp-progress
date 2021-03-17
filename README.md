@@ -4,7 +4,7 @@ You've probably seen most if not all of this code before on some tuttorial on li
 Thus far I have:
 ## 1. Using cout to print hello world
 ## 2. Try Basic Object Oriented Programing 
-## 3. App Ideas:
+## 3. App Ideas
  * a.) Tax app guiding self-employed people on how to file taxes in South Africa.
  * b.) Setswana learning application with word games (similar to Duo)
  * c.) NA  and AA app for finding meetings in your own timezone with sharelibrary and lierature library
@@ -26,3 +26,6 @@ Thus far I have:
  - +Cost (each byte is precious as data costs are astronomical)
  
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with people so if you want to say hi, drop me an email rehumilebiagini@gmail.com!:)</em>
+
+
+Learning how to push from vscode: TEST 
